@@ -22,5 +22,5 @@ python3 create_database.py
 
 Run parser script
 ```bash
-python3 manager.py
+python3 gitparser.py
 ```
